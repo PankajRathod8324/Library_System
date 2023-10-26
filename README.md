@@ -24,3 +24,71 @@ How to Use This Video:
 
 Whether you're an administrator or a user, this video will provide you with a clear understanding of how to navigate and utilize our Library Management System effectively. If you have any questions or require further assistance, please feel free to leave a comment or reach out to us.
 
+# Library Management System
+
+**Manage your library efficiently with our modern Library Management System, built using ASP.NET Core MVC.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Welcome to our Library Management System! This web application simplifies library operations by providing distinct interfaces for administrators and users. Admins can manage books, users, and requests, while users can request books, read, and return them.
+
+## Features
+
+- **Admin Interface:**
+  - Add, edit, and delete books
+  - Manage users
+  - Review and respond to user requests
+
+- **User Interface:**
+  - Browse and request available books
+  - Read and return books
+  - Seamless interaction with the library
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [Visual Studio](https://visualstudio.microsoft.com/) or any code editor of your choice
+
+### Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/PankajRathod8324/Library_System
+Open the project in Visual Studio or your code editor.
+
+Configure the database connection in appsettings.json.
+
+Build and run the application.
+
+Usage
+Access the application on your preferred web browser.
+Log in as an admin or user.
+Explore the features according to your role.
+Contributing
+We welcome contributions from the community! Please see our Contribution Guidelines for details on how to get involved.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Explore our Library Management System and simplify your library operations. Feel free to reach out with any questions or feedback.
+
+
+
